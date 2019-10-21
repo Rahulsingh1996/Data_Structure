@@ -76,7 +76,7 @@ Sr.No | Learning Objective to be met | Tasks to be performed by the students | A
 <br>3. Pythagoras theorem is used to check if a given triangle is a right-angled triangle or not.
 <br>4. Use the Pythagorean theorem to derive the equation of a circle.
 <br>5. Use the area of right triangles to deduce the areas of other shapes.
-<br>6. Use the Pythagorean Theorem a^2+b^2=c^2 to write an equation to be solved.
+<br>6. Use the Pythagorean Theorem a<sup>2</sup>+b<sup>2</sup>=c<sup>2</sup> to write an equation to be solved.
 <br>7. Rearrange the same four triangles such that they form two equal rectangles inside a larger square. 
 <br>8. Recognize that the area not formed by the triangles is equal in both arrangements.
 <br>9. In a right triangle, the square of the hypotenuse is equal to the sum of the square of the other two sides.
