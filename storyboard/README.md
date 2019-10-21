@@ -82,9 +82,9 @@ The Pythagorean Theorem is Pythagoras' most famous mathematical contribution. Ac
 ### 6. Formulas and equations used :
 
 Formulas:<br> 
-a²= c² - b² 
-b² = c² - a² 
-c² = a² + b²
+<br><b>a²= c² - b²</b> 
+<br><b>b² = c² - a²</b> 
+<br><b>c² = a² + b²</b>
 
 ### 7.Conclusion:
 ####  Study of DSB/SSB AM signal has been done. Modulation Index has been calculated and power has been determined.
