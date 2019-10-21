@@ -20,7 +20,7 @@
 <a name="LO"></a>
 #### 1. Focus Area : Experimentation and Data Analysis
 Basic Mathematics.
-The Pythagorean theorem is an important math concept that is applied everywhere in math and technology. The idea is simple in that a2 + b2 = c2 for a right angle triangle that has two sides, a and b, and a hypotenuse of c.
+The Pythagorean theorem is an important math concept that is applied everywhere in math and technology. The idea is simple in that a<sup>2</sup> + b<sup>2</sup> = c<sup>2</sup> for a right angle triangle that has two sides, a and b, and a hypotenuse of c.
 The Pythagorean Theorem and its many proofs. In a right triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the legs. There are several methods to prove the Pythagorean Theorem.
 
 <br/>
