@@ -26,7 +26,7 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 2 | Rahul Singh | Student | Information Technology | Rajkiya Engineering College, Banda | rs388903@gmail.com
 3 | Mr. Mandeep Chargotra | Student | Information Technology | Rajkiya Engineering College, Banda | mandeepchargota78900@gmail.com
 4 | Mr. Amit Kumar Divyan | Student | Information Technology | Rajkiya Engineering College, Banda | amitdivyan1998@gmail.com
-5 | Miss. Laiba Shakeel   | Student | Information Technology | Rajkiya Engineering College, Banda | 555laibashakell@gmail.com
+5 | Miss. Laiba Shakeel   | Student | Information Technology | Rajkiya Engineering College, Banda | 555laibashakel@gmail.com
 
 
 <br>
