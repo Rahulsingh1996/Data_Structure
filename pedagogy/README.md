@@ -55,8 +55,7 @@ Read the theory and comprehend the concepts related to the experiment.
 
 Sr.No | Learning Objective to be met | Tasks to be performed by the students | Assessment questions aligned to the task
 :--|:--|:--|:--:
-1.| Calculate the sides | Take the individual value of
-a²= c² - b² b² = c² - a² c² = a² + b² | We should provide at least two value out of three sides of triangle and calculate value of remain one side.
+1.| Calculate the sides | Take the individual value of <p>a²= c² - b²</p> b² = c² - a² c² = a² + b² | We should provide at least two value out of three sides of triangle and calculate value of remain one side.
 2.| Analyze the importance of the Pythagoras theorem and understanding mathematical problems. | To find out the Height, Base and Hypotenuse. | Use the Simulation.
 
 <br>
