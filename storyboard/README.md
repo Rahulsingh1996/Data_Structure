@@ -33,16 +33,16 @@ The Pythagorean Theorem is Pythagoras' most famous mathematical contribution. Ac
 ##### 2..	PYTHAGOREAN THEOREM state that for any right angled tringle called that..........
 <br>  a) Hypertenuse 
 <br> b) Hypochondriac
-<br> <b> c) Hypotenuse </b>
+<br>  c) <b>  Hypotenuse </b>
 <br> d) Hyperactive
 <br> ANS:- c
 
 ##### 3.A triangle is said to satisfy the rule c² = a² + b² for which special triangle?
 <br> a) Acute angled
-<br> b)	Right angled
+<br> b)	 <b> Right angled  </b>
 <br> c) Obtuse angled
-<br> <b>  d) Obtuse angled  </b>
-<br> ANS:-D
+<br>  d)    Obtuse angled 
+<br> ANS:-b
 
 ##### 4. The hypotenuse of a right angled triangle is opposite to the
 <br> a) Acute angle
