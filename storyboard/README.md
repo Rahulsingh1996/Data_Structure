@@ -39,22 +39,22 @@ The Pythagorean Theorem is Pythagoras' most famous mathematical contribution. Ac
 
 ##### 3.A triangle is said to satisfy the rule c² = a² + b² for which special triangle?
 <br> a) Acute angled
-<br> b)	 <b> Right angled  </b>
+<br>  <b> b)	 Right angled  </b>
 <br> c) Obtuse angled
 <br>  d)    Obtuse angled 
 <br> ANS:-b
 
 ##### 4. The hypotenuse of a right angled triangle is opposite to the
 <br> a) Acute angle
-<br> b) <b> Right angle </b>
-<br> c)   Obtuse angle  
+<br>   <b> b)Right angle </b>
+<br> c) Obtuse angle  
 <br> d) None of these
 <br> ANS:-b
 
 ##### 5:-The length of the hypotenuse of a right triangle is 32 inches and the length of one of the legs is 18 inches. What is the length, to the nearest tenth of an inch, of the other leg of the triangle?
 <br> a) 36.7 inches
 <br> b)   28.4 inches 
-<br> c) <b> 26.5 inches </b>
+<br> <b> c)  26.5 inches </b>
 <br> d) 25.4 inches
 <br> ANS:-B
 
