@@ -34,7 +34,8 @@ The Pythagorean Theorem and its many proofs. In a right triangle, the square of 
 #### 2. Learning Objectives and Cognitive Level
 
 Pythagoras theorem states that “In a right-angled triangle, the square of the hypotenuse side is equal to the sum of squares of the other two sides“. The sides of this triangles have been named as Perpendicular, Base and Hypotenuse. Here, the hypotenuse is the longest side, as it is opposite to the angle 90°. The sides of a right triangle (say x, y and z) which has positive integer values, when squared are put into an equation, also called a Pythagorean triple.
-<p><center>Hypotenuse2 = Perpendicular2 + Base2 c2 = a2 + b2</center></p> 
+<p><center>Hypotenuse<sup>2</sup> = Perpendicular<sup>2</sup> + Base<sup>2</sup> </center></p>
+<p>c<sup>2</sup> = a<sup>2</sup> + b<sup>2</sup></p>
 <p><center>where, c is Hypotenuse b is Base and a is Hight.</center></p>
 
 
