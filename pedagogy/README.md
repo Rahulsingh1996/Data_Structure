@@ -2,7 +2,7 @@
 <p align="center">
 <br>
 <br>
-<b> Experiment:DSB/SSB amplitude modulation   <a name="top"></a> <br>
+<b> Experiment:Pythagoras Theorem   <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Engineering
@@ -19,7 +19,9 @@
 
 <a name="LO"></a>
 #### 1. Focus Area : Experimentation and Data Analysis
-The students know the concept DSB/SSB amplitude modulation and they will learn how to determine its modulation factor,they will come to know how to use DSB/SSB transmitters learn about its circuit diagram and how thw modulation occurs and helpfull.
+Basic Mathematics.
+The Pythagorean theorem is an important math concept that is applied everywhere in math and technology. The idea is simple in that a2 + b2 = c2 for a right angle triangle that has two sides, a and b, and a hypotenuse of c.
+The Pythagorean Theorem and its many proofs. In a right triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the legs. There are several methods to prove the Pythagorean Theorem.
 
 <br/>
 <div align="right">
