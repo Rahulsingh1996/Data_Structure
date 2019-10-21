@@ -10,29 +10,16 @@ Pythagoras theorem states that “In a right-angled triangle, the square of the 
 Double sideband suppressed carrier modulation
 At the beginning of the explanation of amplitude modulation, we explained the AM radio system, but the term for amplitude in the theoretical expression was complex. If the amplitude of the carrier wave is simply changed and mathematised, it is as follows. This modulation method is called DSB-SC (double sideband suppressed carrier modulation). As the name suggests, there’s no wave carrier in the modulated wave.
 
-<img src="storyboard/ssb.jpg"/>
+
 <br>
 
 
 
-
-
-
-
-#### Apparatus
-1.	DSB/SSB	AMtransmitter kit
-2.	CRO
-3.	Patch cords 
-
-#### With following specifications,
-
-1.	DSB/SSB	AM transmitter kit	(ST2201)
-2  CRO as required by the DSB/SSb transmitter
-3.	Patch cords of desired length and required numbers
+### 3. Set the Visual Stage Description:
+The Pythagorean Theorem was one of the earliest theorems known to ancient civilizations. This famous theorem is named for the Greek mathematician and philosopher, Pythagoras. Pythagoras founded the Pythagorean School of Mathematics in Cortona, a Greek seaport in Southern Italy. He is credited with many contributions to mathematics although some of them may have actually been the work of his students.
 
 ### 4. User objective goals
-1. To study DSB/SSB amplitude modulation.
-2. To determine its modulation factor.
+The Pythagorean Theorem is Pythagoras' most famous mathematical contribution. According to legend, Pythagoras was so happy when he discovered the theorem that he offered a sacrifice of oxen. The later discovery that the square root of 2 is irrational and therefore, cannot be expressed as a ratio of two integers, greatly troubled Pythagoras and his followers. They were devout in their belief that any two lengths were integral multiples of some unit length. Many attempts were made to suppress the knowledge that the square root of 2 is irrational. It is even said that the man who divulged the secret was drowned at sea.
 
 
 ### 5. Challenges and Questions
@@ -95,22 +82,9 @@ At the beginning of the explanation of amplitude modulation, we explained the AM
 ### 6. Formulas and equations used :
 
 Formulas:<br> 
-<img src="storyboard/eq.jpg"/>
-
-<img src="storyboard/eq1.jpg"/>
-<br>
-<img src="storyboard/eq2.jpg"/>
-<br>
-<img src="storyboard/eq3.jpg"/>
-<br>
-<img src="storyboard/eq3.jpg"/>
- <br>
-Modulation Index m =  ×100 %
- 
-
-Power of Carrier Signal Pc = Ac²/2 <br>
-Power of Side Band Ps = Pc[1+ ma²/2] <br>
-Total power, P = Pc + Ps
+a²= c² - b² 
+b² = c² - a² 
+c² = a² + b²
 
 ### 7.Conclusion:
 ####  Study of DSB/SSB AM signal has been done. Modulation Index has been calculated and power has been determined.
