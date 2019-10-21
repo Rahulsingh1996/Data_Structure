@@ -53,10 +53,11 @@ Pythagoras theorem states that “In a right-angled triangle, the square of the 
 Read the theory and comprehend the concepts related to the experiment. 
 <br>
 
-Sr.No | What students will do? | What Simulator will do ? | Purpose of the task
+Sr.No | Learning Objective to be met | Tasks to be performed by the students | Assessment questions aligned to the task
 :--|:--|:--|:--:
-1.| Student will click on Simulation tab | Simulator will ask for Amplitude,Vmax,Vmin and will give Modulation index,and total power | This will test give the result of the experiment 
-2.| Student will click on Simulation tab | Simulator opens the quizes on  screen | This will test the understandindg of experiment of student 
+1.| Calculate the sides | Take the individual value of
+a²= c² - b² b² = c² - a² c² = a² + b² | We should provide at least two value out of three sides of triangle and calculate value of remain one side.
+2.| Analyze the importance of the Pythagoras theorem and understanding mathematical problems. | To find out the Height, Base and Hypotenuse. | Use the Simulation.
 
 <br>
 
