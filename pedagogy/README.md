@@ -55,7 +55,7 @@ Read the theory and comprehend the concepts related to the experiment.
 
 Sr.No | Learning Objective to be met | Tasks to be performed by the students | Assessment questions aligned to the task
 :--|:--|:--|:--:
-1.| Calculate the sides | Take the individual value of <p>a²= c² - b²</p> b² = c² - a² c² = a² + b² | We should provide at least two value out of three sides of triangle and calculate value of remain one side.
+1.| Calculate the sides | Take the individual value of <p>a²= c² - b²</p> b² = c² - a² <p>c² = a² + b²</p> | We should provide at least two value out of three sides of triangle and calculate value of remain one side.
 2.| Analyze the importance of the Pythagoras theorem and understanding mathematical problems. | To find out the Height, Base and Hypotenuse. | Use the Simulation.
 
 <br>
@@ -70,9 +70,13 @@ Sr.No | Learning Objective to be met | Tasks to be performed by the students | A
 <a name="SI"></a>
 
 #### 4. Simulator Interactions:
-<br>
 
-Sr.No | What students will do? | What Simulator will do ? | Purpose of the task
-:--|:--|:--|:--:
-1.| Student will click on Simulation tab | Simulator will ask for Amplitude,Vmax,Vmin and will give Modulation index,and total power | This will test give the result of the experiment 
-2.| Student will click on Simulation tab | Simulator opens the quizes on  screen | This will test the understandindg of experiment of student 
+<br>1. Find a right angled triangle by giving base and heights in the input box.
+<br>2. Find the respective three sides of a triangle.
+<br>3. Pythagoras theorem is used to check if a given triangle is a right-angled triangle or not.
+<br>4. Use the Pythagorean theorem to derive the equation of a circle.
+<br>5. Use the area of right triangles to deduce the areas of other shapes.
+<br>6. Use the Pythagorean Theorem a^2+b^2=c^2 to write an equation to be solved.
+<br>7. Rearrange the same four triangles such that they form two equal rectangles inside a larger square. 
+<br>8. Recognize that the area not formed by the triangles is equal in both arrangements.
+<br>9. In a right triangle, the square of the hypotenuse is equal to the sum of the square of the other two sides.
