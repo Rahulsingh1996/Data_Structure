@@ -2,7 +2,7 @@
 <p align="center">
 <br>
 <br>
-<b> Experiment:Pythagoras Theorem   <a name="top"></a> <br>
+<b> Experiment: Pythagoras Theorem   <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>Engineering
