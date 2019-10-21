@@ -52,11 +52,12 @@ Pythagoras theorem states that “In a right-angled triangle, the square of the 
 
 Read the theory and comprehend the concepts related to the experiment. 
 <br>
-<div>
-    The quizes are provided that will judge and inhance the skills of the Student.
-    Each question is relevent to the experiment and just ment to increse the understanding of experiment and their concept.
- 
-</div>
+
+Sr.No | What students will do? | What Simulator will do ? | Purpose of the task
+:--|:--|:--|:--:
+1.| Student will click on Simulation tab | Simulator will ask for Amplitude,Vmax,Vmin and will give Modulation index,and total power | This will test give the result of the experiment 
+2.| Student will click on Simulation tab | Simulator opens the quizes on  screen | This will test the understandindg of experiment of student 
+
 <br>
 
 <br/>
@@ -71,7 +72,7 @@ Read the theory and comprehend the concepts related to the experiment.
 #### 4. Simulator Interactions:
 <br>
 
-Sr.No | What students will do? >>| What Simulator will do ? | Purpose of the task
+Sr.No | What students will do? | What Simulator will do ? | Purpose of the task
 :--|:--|:--|:--:
 1.| Student will click on Simulation tab | Simulator will ask for Amplitude,Vmax,Vmin and will give Modulation index,and total power | This will test give the result of the experiment 
 2.| Student will click on Simulation tab | Simulator opens the quizes on  screen | This will test the understandindg of experiment of student 
