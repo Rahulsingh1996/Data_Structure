@@ -71,7 +71,7 @@ Read the theory and comprehend the concepts related to the experiment.
 #### 4. Simulator Interactions:
 <br>
 
-Sr.No | What students will do? | What Simulator will do ? | Purpose of the task
+Sr.No | What students will do? >>| What Simulator will do ? | Purpose of the task
 :--|:--|:--|:--:
 1.| Student will click on Simulation tab | Simulator will ask for Amplitude,Vmax,Vmin and will give Modulation index,and total power | This will test give the result of the experiment 
 2.| Student will click on Simulation tab | Simulator opens the quizes on  screen | This will test the understandindg of experiment of student 
