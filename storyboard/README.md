@@ -23,60 +23,47 @@ The Pythagorean Theorem is Pythagoras' most famous mathematical contribution. Ac
 
 
 ### 5. Challenges and Questions
-##### 1.	The circuit used for producing AM is called?
-<br> <b> a) Modulator </b> 
-<br> b) Transmitter 
-<br> c) Receiver 
-<br> d) Duplexer
+##### 1.	Given that c² = a² + b² and a = 8, b = 15, what is the value of c?
+<br> <b> a) 17 </b> 
+<br> b) 23 
+<br> c) 289 
+<br> d) 529
 <br> ANS:-A
 
-##### 2.	In Amplitude Modulation, the instantaneous values of the carrier amplitude changes in accordance with the amplitude and frequency variations of the modulating signal.
-<br> <b> a)	True  </b>
-<br> b) False
-<br> ANS:-A
+##### 2..	PYTHAGOREAN THEOREM state that for any right angled tringle called that..........
+<br>  a) Hypertenuse 
+<br> b) Hypochondriac
+<br> <b> c) Hypotenuse </b>
+<br> d) Hyperactive
+<br> ANS:- c
 
-##### 3.What is the line connecting the positive and negative peaks of the carrier waveform called?
-<br> a) Peak line
-<br> b)	Maximum amplitude ceiling 
-<br> c) Modulation index
-<br> <b>  d) Envelope  </b>
+##### 3.A triangle is said to satisfy the rule c² = a² + b² for which special triangle?
+<br> a) Acute angled
+<br> b)	Right angled
+<br> c) Obtuse angled
+<br> <b>  d) Obtuse angled  </b>
 <br> ANS:-D
 
-##### 4. The ratio between the modulating signal voltage and the carrier voltage is called?
-<br> a) Amplitude modulation
-<br> b) Modulation frequency 
-<br> c)  <b> Modulation index  </b>
-<br> d) Ratio of modulation
-<br> ANS:-C
+##### 4. The hypotenuse of a right angled triangle is opposite to the
+<br> a) Acute angle
+<br> b) <b> Right angle </b>
+<br> c)   Obtuse angle  
+<br> d) None of these
+<br> ANS:-b
 
-##### 5:- What happens when the amplitude of the modulating signal is greater than the amplitude of the carrier?
-<br> a)  Decay
-<br>  <b> b) Distortion  </b>
-<br> c) Amplification
-<br> d) Attenuation 
+##### 5:-The length of the hypotenuse of a right triangle is 32 inches and the length of one of the legs is 18 inches. What is the length, to the nearest tenth of an inch, of the other leg of the triangle?
+<br> a) 36.7 inches
+<br> b)   28.4 inches 
+<br> c) <b> 26.5 inches </b>
+<br> d) 25.4 inches
 <br> ANS:-B
 
-##### 6:- What is the condition for greatest output power at the transmitter without distortion? 
-<br> a) Modulating signal voltage > Carrier voltage
-<br> b) Modulating signal voltage < Carrier voltage 
-<br>  <b> c) Modulating signal voltage = Carrier voltage  </b> 
-<br> d) Modulating signal voltage = 0
+##### 6:- Two sides of a triangle measure 10 inches and 6 inches. Which of the following choices for the length of the third side will make the triangle a right triangle?
+<br> a) 7 inches
+<br> b) 4 inches
+<br>  <b> c) 8 inches  </b> 
+<br> d) 9 inches
 <br> ANS:-C
- 
-##### 7:- What is the bandwidth of the signal if the highest frequency in the modulating signal is 3 KHz? 
-<br>  <b> a) 6Khz </b>
-<br> b) 3KHz
-<br> c)  5Khz
-<br> d) 140Khz
-<br> ANS:-A
-
-##### 8:- What is the wave of frequency that occurs at the sum and difference of the carrier and modulating signal is called?
-<br> a) Noise signals
-<br> <b> b) Sideband </b>
-<br> c)  Extraband 
-<br> d) Neutral band 
-<br> ANS:-B
-
 
 
 ### 6. Formulas and equations used :
@@ -87,7 +74,7 @@ Formulas:<br>
 <br><b>c² = a² + b²</b>
 
 ### 7.Conclusion:
-####  Study of DSB/SSB AM signal has been done. Modulation Index has been calculated and power has been determined.
+####  The square ACGF and the four quadrilaterals cut from the square ABIH completely fill the square BCED. Thus the theorem is verified.
 
 
 
