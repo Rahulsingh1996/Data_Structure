@@ -7,7 +7,7 @@
 
 <b>Discipline | <b>Engineering
 :--|:--|
-<b> Lab | <b> Engineering Mathematics
+<b> Lab | <b> Data Structure Lab
 <b> Experiment|     <b> To perform the Red Black Tree
 
 
@@ -19,9 +19,9 @@
 
 <a name="LO"></a>
 #### 1. Focus Area : Experimentation and Data Analysis
-Basic contant
+Basic Contant Of Red Black Tree
 <p>A red–black tree is a kind of self-balancing binary search tree in computer science. Each node of the binary tree has an extra bit, and that bit is often interpreted as the color (red or black) of the node. These color bits are used to ensure the tree remains approximately balanced during insertions and deletions</p>
-<h3><b>A red-black tree is a binary search tree which has the following red-black properties:</b></h3></br>
+<h3><b>A red-black tree is a binary search tree which has the following red-black properties:</b></h3>
 1.Every node is either red or black.</br>
 2 Root of tree is always black.</br>
 3.Every leaf (NULL) is black.</br>
@@ -50,101 +50,101 @@ Note that in both trees, an in-order traversal yields:
 
 A x B y C
 <h4><b>Algorithm</b></h4>
-<h4><b>Left Rotation.
+<h4><b>Left Rotation.</b></h4>
 
-LEFT ROTATE (T, x)
- 1. y ← right [x]
- 1. y ← right [x]
- 2. right [x] ← left [y]
- 3. p [left[y]] ← x
- 4. p[y] ← p[x]
- 5. If p[x] = nil [T]
+LEFT ROTATE (T, x)</br>
+ 1. y ← right [x]</br>
+ 1. y ← right [x]</br>
+ 2. right [x] ← left [y]</br>
+ 3. p [left[y]] ← x</br>
+ 4. p[y] ← p[x]</br>
+ 5. If p[x] = nil [T]</br>
    then root [T] ← y
-    else if x = left [p[x]] 									
-      then left [p[x]] ← y
-    else right [p[x]] ← y
- 6. left [y] ← x.
+    else if x = left [p[x]] </br>									
+      then left [p[x]] ← y</br>
+    else right [p[x]] ← y</br>
+ 6. left [y] ← x.</br>
  7. p [x] ← y.</br></br>
  <h4><b> RB-Insert </b></h4>
- RB-INSERT (T, z)
- 1. y ← nil [T]
- 2. x ← root [T]
- 3. while x ≠ NIL [T]
- 4. do y ← x
- 5. if key [z] < key [x]
- 6. then x  ← left [x]
- 7. else x ←  right [x]
- 8. p [z] ← y
- 9. if y = nil [T]
- 10. then root [T] ← z
- 11. else if key [z] < key [y]
- 12. then left [y] ← z
- 13. else right [y] ← z
- 14. left [z] ← nil [T]
- 15. right [z] ← nil [T]
- 16. color [z] ← RED
+ RB-INSERT (T, z)</br>
+ 1. y ← nil [T]</br>
+ 2. x ← root [T]</br>
+ 3. while x ≠ NIL [T]</br>
+ 4. do y ← x</br>
+ 5. if key [z] < key [x]</br>
+ 6. then x  ← left [x]</br>
+ 7. else x ←  right [x]</br>
+ 8. p [z] ← y</br>
+ 9. if y = nil [T]</br>
+ 10. then root [T] ← z</br>
+ 11. else if key [z] < key [y]</br>
+ 12. then left [y] ← z</br>
+ 13. else right [y] ← z</br>
+ 14. left [z] ← nil [T]</br>
+ 15. right [z] ← nil [T]</br>
+ 16. color [z] ← RED</br>
  17. RB-INSERT-FIXUP (T, z)</br></br>
   <h4><b> RB-INSERT-FIXUP (T, z) </b></h4>
-  1. while color [p[z]] = RED
- 2. do if p [z] = left [p[p[z]]]
- 3. then y ← right [p[p[z]]]
- 4. If color [y] = RED
- 5. then color [p[z]] ← BLACK    //Case 1
- 6. color [y] ← BLACK            //Case 1
- 7. color [p[z]] ← RED           //Case 1
- 8. z  ← p[p[z]]                 //Case 1
- 9. else if z= right [p[z]]
- 10. then z ← p [z]              //Case 2
- 11. LEFT-ROTATE (T, z)          //Case 2
- 12. color [p[z]] ← BLACK        //Case 3
+  1. while color [p[z]] = RED</br>
+ 2. do if p [z] = left [p[p[z]]]</br>
+ 3. then y ← right [p[p[z]]]</br>
+ 4. If color [y] = RED</br>
+ 5. then color [p[z]] ← BLACK    //Case 1</br> 
+ 6. color [y] ← BLACK           //Case 1</br> 
+ 7. color [p[z]] ← RED           //Case 1</br> 
+ 8. z  ← p[p[z]]                 //Case 1</br> 
+ 9. else if z= right [p[z]]</br>
+ 10. then z ← p [z]              //Case 2</br> 
+ 11. LEFT-ROTATE (T, z)         //Case 2</br> 
+ 12. color [p[z]] ← BLACK       //Case 3</br> 
  13. color [p [p[z]]] ← RED      //Case 3
- 14. RIGHT-ROTATE  (T,p [p[z]])  //Case 3
- 15. else (same as then clause)
-      With "right" and "left" exchanged
+ 14. RIGHT-ROTATE  (T,p [p[z]]) //Case 3</br>
+ 15. else (same as then clause)</br>
+      With "right" and "left" exchanged</br>
  16. color [root[T]] ← BLACK</br></br>
  <h4><b>RB-DELETE (T, z) </b></h4>
- 1. if left [z] = nil [T] or right [z] = nil [T]
- 2. then y ← z
- 3. else y ← TREE-SUCCESSOR (z)
- 4. if left [y] ≠ nil [T]
- 5. then x ← left [y]
- 6. else x ← right [y]
- 7. p [x] ←  p [y]
- 8. if p[y] = nil [T]
- 9. then root [T]  ← x
- 10. else if y = left [p[y]]
- 11. then left [p[y]] ← x
- 12. else right [p[y]] ← x
- 13. if y≠ z
- 14. then key [z] ← key [y]
- 15. copy y's satellite data into z
- 16. if color [y] = BLACK
- 17. then RB-delete-FIXUP (T, x)
+ 1. if left [z] = nil [T] or right [z] = nil [T]</br>
+ 2. then y ← z</br>
+ 3. else y ← TREE-SUCCESSOR (z)</br>
+ 4. if left [y] ≠ nil [T]</br>
+ 5. then x ← left [y]</br>
+ 6. else x ← right [y]</br>
+ 7. p [x] ←  p [y]</br>
+ 8. if p[y] = nil [T]</br></br>
+ 9. then root [T]  ← x</br>
+ 10. else if y = left [p[y]]</br>
+ 11. then left [p[y]] ← x</br>
+ 12. else right [p[y]] ← x</br>
+ 13. if y≠ z</br>
+ 14. then key [z] ← key [y]</br>
+ 15. copy y's satellite data into z</br>
+ 16. if color [y] = BLACK</br>
+ 17. then RB-delete-FIXUP (T, x)</br>
  18. return y</br></br>
   <h4><b>RB-DELETE-FIXUP (T, x) </b></h4>
-  1. while x ≠ root [T] and color [x] = BLACK
- 2. do if x = left [p[x]]
- 3. then w ← right [p[x]]
- 4. if color [w] = RED
- 5. then color [w] ← BLACK        //Case 1
- 6. color [p[x]] ← RED            //Case 1
- 7. LEFT-ROTATE (T, p [x])        //Case 1
- 8. w ← right [p[x]]              //Case 1
- 9. If color [left [w]] = BLACK and color [right[w]] = BLACK
- 10. then color [w] ← RED         //Case 2
- 11. x ← p[x]                     //Case 2
- 12. else if color [right [w]] = BLACK
- 13. then color [left[w]] ← BLACK //Case 3
- 14. color [w] ← RED              //Case 3
- 15. RIGHT-ROTATE (T, w)          //Case 3
- 16. w ← right [p[x]]             //Case 3
- 17. color [w] ← color [p[x]]     //Case 4
- 18. color p[x] ← BLACK           //Case 4
- 19. color [right [w]] ← BLACK    //Case 4
- 20. LEFT-ROTATE (T, p [x])       //Case 4
- 21. x ← root [T]                 //Case 4
- 22. else (same as then clause with "right" and "left" exchanged)
- 23. color [x] ← BLACK
+  1. while x ≠ root [T] and color [x] = BLACK</br>
+ 2. do if x = left [p[x]]</br>
+ 3. then w ← right [p[x]]</br>
+ 4. if color [w] = RED</br>
+ 5. then color [w] ← BLACK       //Case 1</br>
+ 6. color [p[x]] ← RED            //Case 1</br>
+ 7. LEFT-ROTATE (T, p [x])      //Case 1</br>
+ 8. w ← right [p[x]]             //Case 1</br>
+ 9. If color [left [w]] = BLACK and color [right[w]] = BLACK</br>
+ 10. then color [w] ← RED  </br>       //Case 2</br>
+ 11. x ← p[x]                     //Case 2</br>
+ 12. else if color [right [w]] = BLACK</br>
+ 13. then color [left[w]] ← BLACK //Case 3</br>
+ 14. color [w] ← RED              //Case 3</br>
+ 15. RIGHT-ROTATE (T, w)          //Case 3</br>
+ 16. w ← right [p[x]]             //Case 3</br>
+ 17. color [w] ← color [p[x]]     //Case 4</br>
+ 18. color p[x] ← BLACK           //Case 4</br>
+ 19. color [right [w]] ← BLACK    //Case 4</br>
+ 20. LEFT-ROTATE (T, p [x])       //Case 4</br>
+ 21. x ← root [T]                 //Case 4</br>
+ 22. else (same as then clause with "right" and "left" exchanged)</br>
+ 23. color [x] ← BLACK</br>
 </p>
 
 
