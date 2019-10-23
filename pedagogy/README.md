@@ -21,7 +21,7 @@
 #### 1. Focus Area : Experimentation and Data Analysis
 Basic contant
 <p>A red–black tree is a kind of self-balancing binary search tree in computer science. Each node of the binary tree has an extra bit, and that bit is often interpreted as the color (red or black) of the node. These color bits are used to ensure the tree remains approximately balanced during insertions and deletions</p>
-<p><h3><b>A red-black tree is a binary search tree which has the following red-black properties:</b><h3></br>
+<h3><b>A red-black tree is a binary search tree which has the following red-black properties:</b></h3></br>
 1.Every node is either red or black.</br>
 2 Root of tree is always black.</br>
 3.Every leaf (NULL) is black.</br>
@@ -29,7 +29,7 @@ Basic contant
 5.Every simple path from a node to a descendant leaf contains the same number of black nodes.</br>
 <p>	Basic red-black tree with the sentinel nodes added. Implementations of the red-black tree algorithms will usually include the sentinel nodes as a convenient means of flagging that you have reached a leaf node.</br>
 They are the NULL black nodes of property2.
-</p>
+
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
