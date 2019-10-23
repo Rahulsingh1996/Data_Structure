@@ -9,11 +9,10 @@ Pythagoras theorem states that “In a right-angled triangle, the square of the 
 
 Double sideband suppressed carrier modulation
 At the beginning of the explanation of amplitude modulation, we explained the AM radio system, but the term for amplitude in the theoretical expression was complex. If the amplitude of the carrier wave is simply changed and mathematised, it is as follows. This modulation method is called DSB-SC (double sideband suppressed carrier modulation). As the name suggests, there’s no wave carrier in the modulated wave.
-<img src="https://github.com/Rahulsingh1996/Pythagoras-Theorem/blob/master/experiment/images/6.png">
-<img src="https://github.com/Rahulsingh1996/Pythagoras-Theorem/blob/master/experiment/images/7.png">
-<img src="https://github.com/Rahulsingh1996/Pythagoras-Theorem/blob/master/experiment/images/9.png">
-<img src="https://github.com/Rahulsingh1996/Pythagoras-Theorem/blob/master/experiment/images/10.png">
-
+<img src="https://github.com/Rahulsingh1996/Pythagoras-Theorem/blob/master/storyboard/storyboard/a.PNG">
+<img src="https://github.com/Rahulsingh1996/Pythagoras-Theorem/blob/master/storyboard/storyboard/b.PNG">
+<img src="https://github.com/Rahulsingh1996/Pythagoras-Theorem/blob/master/storyboard/storyboard/d.PNG">
+<img src="https://github.com/Rahulsingh1996/Pythagoras-Theorem/blob/master/storyboard/storyboard/e.PNG">
 <br>
 
 
