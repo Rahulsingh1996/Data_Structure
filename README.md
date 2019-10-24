@@ -5,13 +5,12 @@
 <b>Discipline | <b>Engineering
 :--|:--|
 <b> Lab. | <b>Engineering Mathematics
-<b> Experiment|     <b> To verify Pythagoras theorem by performing an activity.
+<b> Experiment|     <b> WAP to implement Red-Black trees with insertion and deletion operation for the given input data as Strings.
 
 
 
 <h5> About the Experiment : </h5>
-To verify Pythagoras theorem by performing an activity.
-
+WAP to implement Red-Black trees with insertion and deletion operation for the given input data as Strings.
 <b>Name of Developer | <b> Mr. Narendra Rajpur
 :--|:--|
 <b> Institute | <b> Rajkiya Engineering College Banda
