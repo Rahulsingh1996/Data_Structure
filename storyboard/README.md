@@ -30,7 +30,7 @@ Red–black trees offer worst-case guarantees for insertion time, deletion time,
 <li>Relatively low constants in a wide variety of scenarios</li>
 <li>Red-black trees are self-balancing so these operations are guaranteed to be O(logn</li></br>
 <b> 5. <b>Challenges and Questions</b><br>
-##### 1..	What is the special property of red-black trees and what root should always be?
+  <b>1..	What is the special property of red-black trees and what root should always be?</b>
 <br> a)  a color which is either red or black and root should always be black color only
 <br> b)height of the tree
 <br> c) pointer to next node 
@@ -66,20 +66,20 @@ Red–black trees offer worst-case guarantees for insertion time, deletion time,
 <br> ANS:-(a)
 
 ##### 6:- What is the below pseudo code trying to do, where pt is a node pointer and root pointer
-  redblack(Node root, Node pt) :</br>
-    if (root == NULL)</br>
+  redblack(Node root, Node pt) :
+    if (root == NULL)
        return pt</br>
  
-    if (pt.data < root.data)</br>
-    {    </br>
-        root.left  =   redblack(root.left, pt);</br>
-        root.left.parent = root</br>
+    if (pt.data < root.data)
+    {    
+        root.left  =   redblack(root.left, pt);
+        root.left.parent = root
     }</br>
-    else if (pt.data > root.data)</br>
-    { </br>
-        root.right = redblackt(root.right, pt)</br>
-        root.right.parent = root</br>
-    }</br>
+    else if (pt.data > root.data)
+    { 
+        root.right = redblackt(root.right, pt)
+        root.right.parent = root
+    }
    return root
 <br> a) insert a new node
 <br> b)delete a node
