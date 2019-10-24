@@ -28,8 +28,8 @@ Red–black trees offer worst-case guarantees for insertion time, deletion time,
 <p>Red-black trees are self-balancing so these operations are guaranteed to be O(log(n)); a simple binary search tree, on the other hand, could potentially become unbalanced, degrading to O(n) performance for Insert, Delete, and Get. Particularly useful when inserts and/or deletes are relatively frequent</p>
 <li>Particularly useful when inserts and/or deletes are relatively frequent.</li>
 <li>Relatively low constants in a wide variety of scenarios</li>
-<li>Red-black trees are self-balancing so these operations are guaranteed to be O(logn</li>
-### 5. Challenges and Questions
+<li>Red-black trees are self-balancing so these operations are guaranteed to be O(logn</li></br>
+### 5. <b>Challenges and Questions</b><br>
 ##### 1.	What is the special property of red-black trees and what root should always be?
 <br> a)  a color which is either red or black and root should always be black color only
 <br> b)height of the tree
