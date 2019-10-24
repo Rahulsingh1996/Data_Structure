@@ -7,8 +7,8 @@
 
 <b>Discipline | <b>Engineering
 :--|:--|
-<b> Lab | <b> Data Structure Lab
-<b> Experiment|     <b> To perform the Red Black Tree
+<b> Lab | <b> DATA STRUCTURE
+<b> Experiment|     <b> WAP to implement Red-Black trees with insertion and deletion operation for the given input data as Strings.
 
 
 <h4> [1. Focus Area](#LO)
@@ -157,15 +157,6 @@ LEFT ROTATE (T, x)</br>
 
 <a name="IS"></a>
 
-#### 3. Task & Assessment Questions:
-
-Read the theory and comprehend the concepts related to the experiment. 
-<br>
-
-Sr.No | Learning Objective to be met | Tasks to be performed by the students | Assessment questions aligned to the task
-:--|:--|:--|:--:
-1.| Calculate the sides | Take the individual value of <p>a²= c² - b²</p> b² = c² - a² <p>c² = a² + b²</p> | We should provide at least two value out of three sides of triangle and calculate value of remain one side.
-2.| Analyze the importance of the Pythagoras theorem and understanding mathematical problems. | To find out the Height, Base and Hypotenuse. | Use the Simulation.
 
 <br>
 
@@ -180,12 +171,10 @@ Sr.No | Learning Objective to be met | Tasks to be performed by the students | A
 
 #### 4. Simulator Interactions:
 
-<br>1. Find a right angled triangle by giving base and heights in the input box.
-<br>2. Find the respective three sides of a triangle.
-<br>3. Pythagoras theorem is used to check if a given triangle is a right-angled triangle or not.
-<br>4. Use the Pythagorean theorem to derive the equation of a circle.
-<br>5. Use the area of right triangles to deduce the areas of other shapes.
-<br>6. Use the Pythagorean Theorem a<sup>2</sup>+b<sup>2</sup>=c<sup>2</sup> to write an equation to be solved.
-<br>7. Rearrange the same four triangles such that they form two equal rectangles inside a larger square. 
-<br>8. Recognize that the area not formed by the triangles is equal in both arrangements.
-<br>9. In a right triangle, the square of the hypotenuse is equal to the sum of the square of the other two sides.
+<br>1. First we Enter any number than it becomes root node.
+<br>2. Again we enter any number if it is less than root node than it comes on left side of root node other wise if it is greater than root node than it comes to right side of root node and these values known as child node.
+<br>3. All the values which we Enter except of root node are in red color
+<br>4. Root node and Null node always Black.
+<br>5. Every simple path from the root node to the (downward) leaf node contains the same number of black nodes.
+<br>6. Find an any node in the red black tree by use find operation.
+<br>7. And than print the Solverd array in this simulater.
