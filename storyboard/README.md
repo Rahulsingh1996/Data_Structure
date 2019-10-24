@@ -99,7 +99,8 @@ Facts:<br>
   <br><b>From above 2 points, we can conclude the fact that Red Black Tree with n nodes has height <= 2Log2(n+1)</b>
 
 ### 7.Conclusion:
-####  In this post, we introduced Red-Black trees and discussed how balance is ensured. The hard part is to maintain balance when keys are added and removed. We will soon be discussing insertion and deletion operations in coming posts on the Red-Black tree.
+####  <br>1. Most of the self-balancing BST library functions like map and set in C++ (OR TreeSet and TreeMap in Java) use Red Black Tree
+<br>2. It is used to implement CPU Scheduling Linux. Completely Fair Scheduler uses it.
 
 
 
