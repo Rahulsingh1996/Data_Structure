@@ -1,10 +1,14 @@
 ## Storyboard (Round 2)
 
-Experiment 1: To verify Pythagoras theorem by performing an activity.
+Experiment 1: To  performing an activity Red Black Tree.
 
 ### 1. Story Outline:
 
-Pythagoras theorem states that “In a right-angled triangle, the square of the hypotenuse side is equal to the sum of squares of the other two sides“. The sides of this triangles have been named as Perpendicular, Base and Hypotenuse. Here, the hypotenuse is the longest side, as it is opposite to the angle 90°. The sides of a right triangle (say x, y and z) which has positive integer values, when squared are put into an equation, also called a Pythagorean triple.
+A red–black tree is a special type of binary tree, used in computer science to organize pieces of comparable data, such as text fragments or numbers.
+
+The leaf nodes of red–black trees do not contain data. These leaves need not be explicit in computer memory—a null child pointer can encode the fact that this child is a leaf—but it simplifies some algorithms for operating on red–black trees if the leaves really are explicit nodes. To save execution time, sometimes a pointer to a single sentinel node (instead of a null pointer) performs the role of all leaf nodes; all references from internal nodes to leaf nodes then point to the sentinel node.
+
+Red–black trees, like all binary search trees, allow efficient in-order traversal (that is: in the order Left–Root–Right) of their elements. The search-time results from the traversal from root to leaf, and therefore a balanced tree of n nodes, having the least possible tree height, results in O(log n) search time.
 ### 2. Story:
 
 Double sideband suppressed carrier modulation
@@ -18,66 +22,82 @@ At the beginning of the explanation of amplitude modulation, we explained the AM
 
 
 ### 3. Set the Visual Stage Description:
-The Pythagorean Theorem was one of the earliest theorems known to ancient civilizations. This famous theorem is named for the Greek mathematician and philosopher, Pythagoras. Pythagoras founded the Pythagorean School of Mathematics in Cortona, a Greek seaport in Southern Italy. He is credited with many contributions to mathematics although some of them may have actually been the work of his students.
+Red–black trees offer worst-case guarantees for insertion time, deletion time, and search time. Not only does this make them valuable in time-sensitive applications such as real-time applications, but it makes them valuable building blocks in other data structures which provide worst-case guarantees; for example, many data structures used in computational geometry can be based on red–black trees, and the Completely Fair Scheduler used in current Linux kernels and epoll system call implementation[19] uses red–black trees.
 
 ### 4. User objective goals
-The Pythagorean Theorem is Pythagoras' most famous mathematical contribution. According to legend, Pythagoras was so happy when he discovered the theorem that he offered a sacrifice of oxen. The later discovery that the square root of 2 is irrational and therefore, cannot be expressed as a ratio of two integers, greatly troubled Pythagoras and his followers. They were devout in their belief that any two lengths were integral multiples of some unit length. Many attempts were made to suppress the knowledge that the square root of 2 is irrational. It is even said that the man who divulged the secret was drowned at sea.
-
-
+<p>Red-black trees are self-balancing so these operations are guaranteed to be O(log(n)); a simple binary search tree, on the other hand, could potentially become unbalanced, degrading to O(n) performance for Insert, Delete, and Get. Particularly useful when inserts and/or deletes are relatively frequent</p>
+<li>Particularly useful when inserts and/or deletes are relatively frequent.</li>
+<li>Relatively low constants in a wide variety of scenarios</li>
+<li>Red-black trees are self-balancing so these operations are guaranteed to be O(logn</li>
 ### 5. Challenges and Questions
-##### 1.	Given that c² = a² + b² and a = 8, b = 15, what is the value of c?
-<br> <b> a) 17 </b> 
-<br> b) 23 
-<br> c) 289 
-<br> d) 529
-<br> ANS:-A
+##### 1.	What is the special property of red-black trees and what root should always be?
+<br> a)  a color which is either red or black and root should always be black color only
+<br> b)height of the tree
+<br> c) pointer to next node 
+<br> d) a color which is either green or black
+<br> ANS:-(a)
 
-##### 2..	PYTHAGOREAN THEOREM state that for any right angled tringle called that..........
-<br>  a) Hypertenuse 
-<br> b) Hypochondriac
-<br>  c) <b>  Hypotenuse </b>
-<br> d) Hyperactive
-<br> ANS:- c
+##### 2.. What are the operations that could be performed in O(logn) time complexity by red-black tree?
+<br>  a)  insertion, deletion, finding predecessor, successor
+<br>  b)  only insertion
+<br>  c)  only finding predecessor, successor 
+<br>  d)  for sorting
+<br> ANS:- (a)
 
-##### 3.A triangle is said to satisfy the rule c² = a² + b² for which special triangle?
-<br> a) Acute angled
-<br>  <b> b)	 Right angled  </b>
-<br> c) Obtuse angled
-<br>  d)    Obtuse angled 
-<br> ANS:-b
+##### 3.Which of the following is an application of Red-black trees and why
+<br> a)used to store strings efficiently
+<br> b)used to store integers efficiently
+<br> c)can be used in process schedulers, maps, sets
+<br> d) for efficient sorting 
+<br> ANS:-(c)
 
-##### 4. The hypotenuse of a right angled triangle is opposite to the
-<br> a) Acute angle
-<br>   <b> b)Right angle </b>
-<br> c) Obtuse angle  
-<br> d) None of these
-<br> ANS:-b
+##### 4.  Why Red-black trees are preferred over hash tables though hash tables have constant time complexity?
+<br> a)no they are not preferred
+<br> b)because of resizing issues of hash table and better ordering in redblack trees 
+<br> c)because they can be implemented using trees
+<br> d)  because they are balanced
+<br> ANS:-(b)
 
-##### 5:-The length of the hypotenuse of a right triangle is 32 inches and the length of one of the legs is 18 inches. What is the length, to the nearest tenth of an inch, of the other leg of the triangle?
-<br> a) 36.7 inches
-<br> b)   28.4 inches 
-<br> <b> c)  26.5 inches </b>
-<br> d) 25.4 inches
-<br> ANS:-B
+##### 5:- How can you save memory when storing color information in Red-Black tree?
+<br> a)  using least significant bit of one of the pointers in the node for color information
+<br> b)  using another array with colors of each node
+<br> c)  storing color information in the node structure
+<br> d)  using negative and positive numbering
+<br> ANS:-(a)
 
-##### 6:- Two sides of a triangle measure 10 inches and 6 inches. Which of the following choices for the length of the third side will make the triangle a right triangle?
-<br> a) 7 inches
-<br> b) 4 inches
-<br>  <b> c) 8 inches  </b> 
-<br> d) 9 inches
-<br> ANS:-C
+##### 6:- What is the below pseudo code trying to do, where pt is a node pointer and root pointer
+  redblack(Node root, Node pt) :</br>
+    if (root == NULL)</br>
+       return pt</br>
+ 
+    if (pt.data < root.data)</br>
+    {    </br>
+        root.left  =   redblack(root.left, pt);</br>
+        root.left.parent = root</br>
+    }</br>
+    else if (pt.data > root.data)</br>
+    { </br>
+        root.right = redblackt(root.right, pt)</br>
+        root.right.parent = root</br>
+    }</br>
+   return root
+<br> a) insert a new node
+<br> b)delete a node
+<br> c)search a node  
+<br> d)count the number of nodes
+<br> ANS:-(a)
 
 
-### 6. Formulas and equations used :
+### 6. Red-Black Tree ensure balance and facts :
 
-Formulas:<br> 
-<br><b>a²= c² - b²</b> 
-<br><b>b² = c² - a²</b> 
-<br><b>c² = a² + b²</b>
+Facts:<br> 
+<br><b>For a general Binary Tree, let k be the minimum number of nodes on all root to NULL paths, then n >= 2k – 1 (Ex. If k is 3, then n is atleast 7). This expression can also be written as k <= Log2(n+1)</b> 
+<br><b>From property 4 of Red-Black trees and above claim, we can say in a Red-Black Tree with n nodes, there is a root to leaf path with at-most Log2(n+1) black nodes.</b> 
+<br><b> From property 3 of Red-Black trees, we can claim that the number black nodes in a Red-Black tree is at least ⌊ n/2 ⌋ where n is the total number of nodes.</b>
+  <br><b>From above 2 points, we can conclude the fact that Red Black Tree with n nodes has height <= 2Log2(n+1)</b>
 
 ### 7.Conclusion:
-####  The square ACGF and the four quadrilaterals cut from the square ABIH completely fill the square BCED. Thus the theorem is verified.
-
+####  In this post, we introduced Red-Black trees and discussed how balance is ensured. The hard part is to maintain balance when keys are added and removed. We will soon be discussing insertion and deletion operations in coming posts on the Red-Black tree.
 
 
 
