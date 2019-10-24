@@ -4,7 +4,7 @@
 
 <b>Discipline | <b>Engineering
 :--|:--|
-<b> Lab. | <b>DATA Data Structure
+<b> Lab. | <b>DATA STRUCTURE
 <b> Experiment|     <b> WAP to implement Red-Black trees with insertion and deletion operation for the given input data as Strings.
 
 
