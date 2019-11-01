@@ -8,8 +8,7 @@ A Red Black Tree is a type of self-balancing binary search tree, in which every 
 <br>4. All the leaves have the same black depth.
 <br>5. Every simple path from the root node to the (downward) leaf node contains the same number of black nodes..
 
-
-
+<img src="https://github.com/Rahulsingh1996/Data_Structure/blob/master/experiment/images/1.jpg">
 
 <br>While representing the red black tree color of each node should be shown. In this tree leaf nodes are simply termed as null nodes which means they are not physical nodes. It can be checked easily in the above-given tree there are two types of node in which one of them is red and another one is black in color. The above-given tree follows all the properties of a red black tree that are.
 <br>1. It is a binary search tree.
