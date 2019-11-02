@@ -23,7 +23,7 @@ WAP to implement Red-Black trees with insertion and deletion operation for the g
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 |  Mr. Narendra Rajpur | Faculty |Information Technology  |  Rajkiya Engineering College, Banda | rajpootnkumar@gmail.com
-2 | Rahul Singh | Student | Information Technology | Rajkiya Engineering College, Banda | rs388903@gmail.com
+2 | Rahul Singh | Student | Information Technology | Rajkiya Engineering College, Banda | rs388903@yahoo.com
 3 | Mr. Mandeep Chargotra | Student | Information Technology | Rajkiya Engineering College, Banda | mandeepchargota78900@gmail.com
 4 | Mr. Amit Kumar Divyan | Student | Information Technology | Rajkiya Engineering College, Banda | amitdivyan1998@gmail.com
 5 | Miss. Laiba Shakeel   | Student | Information Technology | Rajkiya Engineering College, Banda | 555laibashakel@gmail.com
